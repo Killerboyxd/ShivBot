@@ -10,7 +10,7 @@
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
 MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @Kraken_The_Badass. Join for update related info channel and group :- https://t.me/MafiaBot_Support THANKS FOR VISITING OUR REPO💖
-[![MAFIABOT LOGO](https://telegra.ph/file/75229ba894ef780332815.jpg)](https://t.me/MafiaBot_Support)
+[![SHIVBOT LOGO](https://telegra.ph/file/9584b19633bf5b31faa12.jpg)](https://t.me/RONNY_KI_DUNIYA)
 
 
 # The owner would not be responsible for any kind of bans due to the bot...
@@ -19,7 +19,7 @@ MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @Kraken_The_
 <details>
 
   <summary> • FOR ANY QUERY • </summary>
-<h2 align="center"> <a href="https://t.me/MafiaBot_Support">☢️JOIN MAFIABOT SUPPORT☢️</a></h2>
+<h2 align="center"> <a href="https://t.me/do_dil_ek_jaan143">☢️JOIN MAFIABOT SUPPORT☢️</a></h2>
 
 </details>
 
